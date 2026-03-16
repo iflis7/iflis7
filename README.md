@@ -28,7 +28,7 @@ I bridge technology and finance. From accounting and ops I moved into software t
 
 ---
 
-### Stack (aligned with consulting & delivery)
+### Stack
 
 **Business systems & automation:** Zoho · Odoo · n8n · UiPath · API integrations  
 
@@ -38,9 +38,9 @@ I bridge technology and finance. From accounting and ops I moved into software t
 
 ---
 
-### Pinned projects (pin these on your profile)
+### Pinned projects
 
-These match what you sell on [hafidsaadi.pro](https://hafidsaadi.pro): integrations, document AI, invoicing, automation, infra.
+Integrations, document AI, invoicing, automation, infra.
 
 | Repo | Why it fits the portfolio |
 |------|---------------------------|
@@ -51,7 +51,6 @@ These match what you sell on [hafidsaadi.pro](https://hafidsaadi.pro): integrati
 | [**inception**](https://github.com/iflis7/inception) | Multi-container stack (Docker, Nginx, MariaDB, WordPress) — systems/infra. |
 | [**ohhhllama**](https://github.com/iflis7/ohhhllama) | Python / LLM-related — AI & automation. |
 
-*Profile → “Customize your pins” → select these 6.*
 
 ---
 
