@@ -49,6 +49,18 @@ I sit at the intersection of business operations and technology. I design and im
 
 ---
 
+## Git City
+
+Public GitHub activity becomes a **unique pixel-art building** in an interactive 3D city — height, width, and lit windows follow contributions, repos, and stars.
+
+<p align="center">
+  <a href="https://www.thegitcity.com/dev/iflis7"><img src="https://img.shields.io/badge/Git%20City-Open%20my%20building-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Open my Git City building" /></a>
+</p>
+
+<p align="center"><sub><a href="https://github.com/srizzon/git-city">srizzon/git-city</a> · <a href="https://www.thegitcity.com">thegitcity.com</a></sub></p>
+
+---
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafid-saadi/) [![Portfolio](https://img.shields.io/badge/Portfolio-hafidsaadi.pro-171717?style=flat)](https://hafidsaadi.pro) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/iflis7)
