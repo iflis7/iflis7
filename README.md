@@ -2,11 +2,11 @@
 
 # Hafid Saadi
 
-**Automation & systems consultant** — Accounting, ERP, AI-assisted operations
+Consultant. Accounting and ERP background, now mostly building things: integrations, automations, small AI agents that actually do useful work.
 
-I help **ops and finance leaders** (and teams hiring hands-on builders) turn messy reality into working systems: **audit the process → ship a roadmap → integrate tools → automate what repeats**. That usually means Zoho, Odoo, n8n, UiPath, APIs, and pragmatic AI where it actually reduces risk and manual work—not slide decks.
+I work with finance and ops teams who have too many spreadsheets, too many tools, and not enough time to wire them together. Mostly Zoho, Odoo, n8n, UiPath, plus whatever the API allows.
 
-**[Portfolio & case studies](https://hafidsaadi.pro)** · **[Contact](https://hafidsaadi.pro/#contact)**
+**Sites** — [hafidsaadi.pro](https://hafidsaadi.pro) (consulting, case studies) · [tutolys.ca](https://tutolys.ca) (TutoLys — Quebec EdTech: tutoring + curriculum-aligned games) · [Contact](https://hafidsaadi.pro/#contact)
 
 ---
 
@@ -14,9 +14,9 @@ I help **ops and finance leaders** (and teams hiring hands-on builders) turn mes
 
 | Focus | Outcome |
 |-------|---------|
-| **Process & systems audit** | Clear map of how work really flows, where data breaks, and a prioritized plan (ERP, agents, integrations). |
-| **Implementation & automation** | Higher throughput and fewer handoffs: CRM, LMS, accounting, field ops—wired together with measurable checkpoints. |
-| **Odoo + AI** | Safer rollout: assessment → configuration/custom modules → guarded AI workflows for day-to-day operations. |
+| **Process audit** | Map how the work actually flows. Find what to fix first. |
+| **Implementation** | Wire the tools together. CRM, accounting, LMS, field ops. |
+| **Odoo + AI** | Setup, custom modules, small agents on top. Useful, not magical. |
 
 ---
 
@@ -32,16 +32,6 @@ I help **ops and finance leaders** (and teams hiring hands-on builders) turn mes
 | [**ohhhllama**](https://github.com/iflis7/ohhhllama) | LLM workflows and AI automation (Python). |
 
 [Explore more public repositories →](https://github.com/iflis7?tab=repositories&q=&type=public&language=&sort=stargazers)
-
----
-
-## Featured repository
-
-<p align="center">
-  <a href="https://github.com/iflis7/inventqb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iflis7&repo=inventqb&theme=transparent&hide_border=true&title_color=94a3b8&icon_color=64748b&text_color=94a3b8&description_lines_count=2" alt="Pinned: inventqb" />
-  </a>
-</p>
 
 ---
 
@@ -64,11 +54,8 @@ I help **ops and finance leaders** (and teams hiring hands-on builders) turn mes
 
 ## Lab & R&D
 
-Private Lab work (not all mirrored as public repos):
-
-- **Multi-agent orchestration** — self-hosted **Dify** stack for dev, research, marketing, and accounting assist workflows.
-- **Integration-heavy delivery** — Docker-first environments, reverse proxies, queues, and guarded outbound access for automation.
-- **Product-grade web** — React, Tailwind, performance- and accessibility-minded UI (see **[Nova portfolio](https://github.com/iflis7/pholio)** / **[hafidsaadi.pro](https://hafidsaadi.pro)** for the public surface).
+- **TutoLys** — EdTech I am building for Quebec families. Site: [tutolys.ca](https://tutolys.ca).
+- **Lab** — self-hosted Dify agents for dev/research/marketing/accounting, mostly running in Docker on my own infra.
 
 ---
 
