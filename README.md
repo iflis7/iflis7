@@ -2,9 +2,9 @@
 
 ### Hafid Saadi
 
-Accounting + automation. I build the boring plumbing that makes ops actually run — Zoho, Odoo, n8n, UiPath, plus a bit of AI when it earns its keep.
+Accounting + automation. I build the boring plumbing that makes ops actually run — Zoho, n8n, UiPath, plus a bit of AI when it earns its keep.
 
-Based in Quebec. Working on TutoLys and a few client systems.
+Based in Quebec. Working on TutoLys and client systems.
 
 <br/>
 
